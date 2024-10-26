@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Zihe Zhao / 赵梓合"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Zihe Zhao"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,14 +25,14 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Shenzhen/Guangzhou, China"
+  employer         : "The Hongkong University of Science and Technology(Guangzhou)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zzhao056@connect.hkust-gz.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=OxCW77gAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
